@@ -1,4 +1,4 @@
-# LargeEventTimeCorpus
+# A Large Event Time Corpus
 
 
 ### Overview
