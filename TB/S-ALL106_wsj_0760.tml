@@ -11,7 +11,7 @@ Norton Net Declined @ 6% in Third Quarter 10/27/89 WALL STREET JOURNAL (J) NRT E
 </EXTRAINFO>
 
 <TEXT>
-Norton Co. <EVENT eid="e1" class="REPORTING" tanchor="before 1989-10-27">said</EVENT> net income for <TIMEX3 tid="t50" type="DATE" value="1989-Q3" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t0">the third quarter</TIMEX3> <EVENT eid="e2" class="OCCURRENCE" tanchor="(begin:1989-Q3-FIRST, end:1989-Q3-LAST)">fell</EVENT> 6% to $20.6 million, or 98 cents a share, from $22 million, or $1.03 a share.
+Norton Co. <EVENT eid="e1" class="REPORTING" tanchor="(after 1989-Q4-FIRST, before 1989-10-27)">said</EVENT> net income for <TIMEX3 tid="t50" type="DATE" value="1989-Q3" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t0">the third quarter</TIMEX3> <EVENT eid="e2" class="OCCURRENCE" tanchor="(begin:1989-Q3-FIRST, end:1989-Q3-LAST)">fell</EVENT> 6% to $20.6 million, or 98 cents a share, from $22 million, or $1.03 a share.
 
 Operating profit for the abrasives, engineering materials and petroleum services concern was $19.2 million, or 91 cents a share, up 3% from $18.7 million, or 87 cents a share.
 

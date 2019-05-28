@@ -13,7 +13,7 @@ Kyle Technology Plans Sale 10/26/89 WALL STREET JOURNAL (J) KYLE TENDER OFFERS, 
 <TEXT>
 Kyle Technology Corp. <EVENT eid="e1" class="REPORTING" stem="say" tanchor="before 1989-10-26">said</EVENT> a Seattle investor has <EVENT eid="e2" class="OCCURRENCE" stem="sign" tanchor="before 1989-10-26">signed</EVENT> a letter of intent to <EVENT eid="e6" class="OCCURRENCE" stem="buy" tanchor="(begin:before 1989-10-26, end:after 1989-10-26)">buy</EVENT> the company for about $3.1 million, or $1.20 a share.
 
-The investor, Donald A. Wright, <EVENT eid="e7" class="I_STATE" stem="plan" tanchor="1989-10-26">plans</EVENT> to <EVENT eid="e9" class="OCCURRENCE" stem="run" tanchor="(begin:after 1989-10-26, end:after 1989-10-26)">run</EVENT> the company, <EVENT eid="e10" class="REPORTING" stem="say" tanchor="before 1989-10-26">said</EVENT> a spokesman for Kyle.
+The investor, Donald A. Wright, <EVENT eid="e7" class="I_STATE" stem="plan" tanchor="before 1989-10-26">plans</EVENT> to <EVENT eid="e9" class="OCCURRENCE" stem="run" tanchor="(begin:after 1989-10-26, end:after 1989-10-26)">run</EVENT> the company, <EVENT eid="e10" class="REPORTING" stem="say" tanchor="before 1989-10-26">said</EVENT> a spokesman for Kyle.
 
 The <EVENT eid="e11" class="OCCURRENCE" stem="transaction" tanchor="(begin:before 1989-10-26, end:after 1989-10-26)">transaction</EVENT> has been <EVENT eid="e12" class="I_ACTION" stem="approve" tanchor="before 1989-10-26">approved</EVENT> by Kyle's board, but <EVENT eid="e13" class="I_STATE" stem="require" tanchor="1989-10-26">requires</EVENT> the approval of the company's shareholders. Kyle manufactures electronic components.
 </TEXT>

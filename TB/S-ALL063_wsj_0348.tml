@@ -11,7 +11,7 @@ Business Brief -- Ogden Corp.: @ Ogden Estimates Unit Had @ Jump in Third-Period
 </EXTRAINFO>
 
 <TEXT>
-Ogden Projects Inc. <EVENT eid="e1" class="REPORTING" tanchor="before 1989-11-01">said</EVENT> net income <EVENT eid="e2" class="OCCURRENCE" tanchor="(begin:1989-Q3-FIRST, end:1989-Q3-LAST)">jumped</EVENT> to $6.6 million, or 18 cents a share, in <TIMEX3 tid="t29" type="DATE" value="1989-Q3" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t0">the third quarter</TIMEX3>.
+Ogden Projects Inc. <EVENT eid="e1" class="REPORTING" tanchor="(after 1989-Q4-FIRST, before 1989-11-01)">said</EVENT> net income <EVENT eid="e2" class="OCCURRENCE" tanchor="(begin:1989-Q3-FIRST, end:1989-Q3-LAST)">jumped</EVENT> to $6.6 million, or 18 cents a share, in <TIMEX3 tid="t29" type="DATE" value="1989-Q3" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t0">the third quarter</TIMEX3>.
 
 The Fairfield, N.J., company, which is 92%-owned by Ogden Corp., New York, <EVENT eid="e30" class="STATE" tanchor="(begin:1988-Q3-FIRST, end:1988-Q3-LAST)">had</EVENT> net of $1.1 million, or four cents a share, <TIMEX3 tid="t89" type="DATE" value="1988-Q3" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t29">a year ago</TIMEX3>. Revenue <EVENT eid="e5" class="OCCURRENCE" tanchor="(begin:1989-Q3-FIRST, end:1989-Q3-LAST)">soared</EVENT> to $101.7 million from $39.5 million.
 
