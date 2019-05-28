@@ -11,14 +11,14 @@ We followed the new event time schema to annotate the occuring time of all the e
 
 ### Related work
 
-[TimeBank-EventTime (TBET)](https://www.informatik.tu-darmstadt.de/ukp/research_6/data/timeline_generation/temporal_anchoring_of_events_for_the_timebank_corpus/index.en.jsp) 
+- [TimeBank-EventTime (TBET)](https://www.informatik.tu-darmstadt.de/ukp/research_6/data/timeline_generation/temporal_anchoring_of_events_for_the_timebank_corpus/index.en.jsp) 
 
-[Temporal Order](https://github.com/racerandom/temporalorder): Pair-wised temporal order relations automatically induced from the TBET annotation.
+- [Temporal Order](https://github.com/racerandom/temporalorder): Pair-wised temporal order relations automatically induced from the TBET annotation.
 
 ### Contact person
 
-* Miyao, Yusuke: yusuke@is.s.u-tokyo.ac.jp
-* Cheng, Fei:  feicheng@i.kyoto-u.ac.jp
+- Miyao, Yusuke: yusuke@is.s.u-tokyo.ac.jp
+- Cheng, Fei:  feicheng@i.kyoto-u.ac.jp
 
 
 
